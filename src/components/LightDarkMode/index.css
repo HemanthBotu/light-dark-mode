@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.card-container {
+  background-color: #000000;
+  border: 1px #000000;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.headig {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.button {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+  border: 1px #000000;
+  height: 36px;
+  width: 100px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
